@@ -1,4 +1,4 @@
-# suman
-this is my first Git Repository
+# Suman
+This is my first Git Repository.
 <br>
 Author-Suman Patil
